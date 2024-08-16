@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Arduino - LCD</h1>
+  <h1>Arduino - 7-Segment</h1>
 
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -8,7 +8,7 @@
 
 <br />
 
-> Version: **1.0.1**
+> Version: **1.0.2**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## About
 
-`LCD` is a simple Lego 7-segment display made with Arduino.
+This is a simple Lego 7-segment display made with Arduino.
 
 > **Note:** This project can be used for any project that uses a 7-segment display.
 
@@ -53,10 +53,12 @@
   <img src="./assets/display_4.jpeg" width="40%">
 </div>
 
+![](https://github.com/Zarox28/Arduino-7-segment/assets/display_5.gif)
+
 ## Installation
 
 1. Clone the repository
-2. Open the `LCD.ino` file with the Arduino IDE
+2. Open the `7-segment.ino` file with the Arduino IDE
 3. Upload the code to the Arduino Uno
 
 ## Usage
@@ -68,7 +70,7 @@
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for changes
+See [CHANGELOG](CHANGELOG.md) for changes
 
 ## Contributing
 
@@ -76,7 +78,7 @@ Contributing is disabled for this repository
 
 ## License
 
-This project is licensed under the AGPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the AGPL v3 License - see the [LICENSE](LICENSE.md) file for details
 
 ## Authors
 

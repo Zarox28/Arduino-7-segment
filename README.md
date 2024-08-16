@@ -47,13 +47,15 @@ This is a simple Lego 7-segment display made with Arduino.
 ## Images
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
-  <img src="./assets/display_1.jpeg" width="40%">
+  <img src="./assets/display_1.jpeg" width="20%">
   <img src="./assets/display_2.jpeg" width="40%">
   <img src="./assets/display_3.jpeg" width="40%">
   <img src="./assets/display_4.jpeg" width="40%">
 </div>
 
-![](https://github.com/Zarox28/Arduino-7-segment/assets/display_5.gif)
+<div align="center">
+  <img src="./assets/display_5.gif" width="20%">
+</div>
 
 ## Installation
 
